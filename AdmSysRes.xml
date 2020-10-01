@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uv id="Res" nom="Administration des systemes et des reseaux">
+    <ects>
+         6
+    </ects>
+    <heures>
+    <cours>36</cours>
+    <td>6</td>
+    <tp>12</tp>
+    </heures>
+    <enseignant>Helmut Ardelpic</enseignant>
+<desc>
+    <p>Principe des reseaux informatiques....</p>
+     <p>Reseaux locaux....</p>
+     <p>....</p>
+    <p>....</p>
+</desc>
+</uv>
+

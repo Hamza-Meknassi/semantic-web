@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cv.css"?> 
+
+<cv>
+
+    <entete>
+
+        <nom>Meknassi</nom>
+
+        <prenom>Hamza</prenom>
+
+        <ddn>28/08/1997</ddn>
+
+        <nationalite>Marocaine</nationalite>
+
+        <situationMaritale>Célibataire</situationMaritale>
+
+        <permis>B</permis>
+
+        <mail>meknassi.hamza7@gmail.com</mail>
+
+        <web>http://hamza_meknassi.fr</web>
+
+    </entete>
+
+    <situationActuelle>Étudiant en deuxieme année Master a  l'université Artois</situationActuelle>
+
+    <diplomes>
+
+        <diplome>
+
+            <annee>2015</annee>
+
+            <intitule>Baccalauréat Sciences</intitule>
+
+        </diplome>
+
+        <diplome>
+
+            <annee>2019</annee>
+
+            <intitule>Licence informatique</intitule>
+
+        </diplome>
+
+    </diplomes>
+
+    <stages>
+
+        <stage>
+
+            <date>été</date>
+
+            <annee>2005</annee>
+
+            <titre>Relecteur chez Eyrolles</titre>
+
+            <description>Révision d'ouvrages d'informatique et utilisation de la suite
+
+                OpenOffice.org et du logiciel de gestion de versions Subversion.</description>
+
+        </stage>
+
+        <stage>
+
+            <date>été</date>
+
+            <annee>2004</annee>
+
+            <titre>Stagiaire à l'UTC</titre>
+
+            <description>Structuration documentaire, utilisation de Scenari.</description>
+
+        </stage>
+
+    </stages>
+
+    <competences>
+
+        <competence>
+
+            <titre>Très bonne pratique du français écrit</titre>
+
+        </competence>
+
+        <competence>
+
+            <titre>Outils bureautiques</titre>
+
+            <description>Suite OpenOffice.org, Adobe Photoshop et The Gimp, Adobe Illustrator et
+
+                Inkscape</description>
+
+        </competence>
+
+    </competences>
+
+    <langues>
+
+        <langue>
+
+            <intitule>Anglais</intitule>
+
+            <niveau>Bilingue</niveau>
+
+        </langue>
+
+        <langue>
+
+            <intitule>Chinois</intitule>
+
+            <niveau>Rudiments</niveau>
+
+        </langue>
+
+    </langues>
+
+    <loisirs>
+
+        <loisir>Surf</loisir>
+
+        <loisir>Cinéma</loisir>
+
+        <loisir>Roller</loisir>
+
+        <loisir>Lecture</loisir>
+
+    </loisirs>
+
+</cv>

@@ -1,0 +1,28 @@
+receipe { 
+    color: white; 
+    background-color : gray; 
+    width: 100%; 
+} 
+heading { 
+    color: green; 
+    font-size : 40px; 
+    background-color : powderblue; 
+} 
+heading, ingredients, Spaghettis, tomates, oignons, boeuf_hach,porc_hach,paragraphe,preparation,cuisson,dificulte { 
+    display : block; 
+} 
+p{
+    display: block;
+}
+pa{
+    margin-left: 20px;
+    display: inline;
+}
+pb{
+    margin-top: 20px;
+    display: block;
+}
+ingredients { 
+    font-size : 25px; 
+    font-weight : bold; 
+} 

@@ -1,0 +1,16 @@
+note { 
+    color: white; 
+    background-color : gray; 
+    width: 100%; 
+} 
+heading,to, from{ 
+    color: green; 
+    font-size : 40px; 
+    background-color : powderblue; 
+} 
+heading, to, from, body, footer { 
+    display : block; 
+} 
+p{
+    display: block;
+}
