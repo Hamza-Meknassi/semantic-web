@@ -1,0 +1,5 @@
+<?xml version="1.0" ? >
+<!ELEMENT receipe (ANY) >
+<!ELEMENT heading  (ANY) >
+<!ELEMENT ingredinets (ing,Spaghettis,tomates,oignons,boeuf_hach,porc_hach,preparation,cuisson,dificulte) >
+<!ELEMENT paragraphe (ANY) >

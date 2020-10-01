@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE receipe SYSTEM "spaghettisBoloDtd.dtd">
 <?xml-stylesheet type="text/css" href="receipe.css"?> 
 <!--exercice 1 Boulougnaise receipe -->
 
@@ -23,24 +24,20 @@
         <pa>l'huile d'olive. Ajoutez la viande mélangée. Laissez 5 min sur feu vif.</pa>
         <pb></pb>
         <p> -Ajoutez les tomates fraîches coupées ena cubes, avec une gousse<p>
-            <pa>d'ail hachée et du thym. Salez, poivrez. Laissez mijoter environ 2</pa>
-            <p></p>
-            <pa>heures sur feu doux</pa>
-            <pb></pb>
+        <pa>d'ail hachée et du thym. Salez, poivrez. Laissez mijoter environ 2</pa>
+        <p></p>
+        <pa>heures sur feu doux</pa>
+        <pb></pb>
         <p> -Faites cuire les 900 gr. de spaghettis dans un grand volume</p>
-            <pa>d'eau bouillante salée, avec une cuiller à soupe d'huile</pa>
-            <p></p>
-            <pa>d'olive. Surveillez la cuisson et arrêtez la quand les pâtes sont</pa>
-            <p></p>
-            <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
-            <pb></pb>
-        <p> -Faites cuire les 900 gr. de spaghettis dans un grand volume</p>
-            <pa>d'eau bouillante salée, avec une cuiller à soupe d'huile</pa>
-            <p></p>
-            <pa>d'olive. Surveillez la cuisson et arrêtez la quand les pâtes sont</pa>
-            <p></p>
-            <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
+        <pa>d'eau bouillante salée, avec une cuiller à soupe d'huile</pa>
+        <p></p>
+        <pa>d'olive. Surveillez la cuisson et arrêtez la quand les pâtes sont</pa>
+        <p></p>
+        <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
+        <pb></pb>
+        <p></p>
     </paragraphe>
+
 </receipe>
 
 
