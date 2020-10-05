@@ -1,53 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="receipe.css"?> 
-<!--exercice 1 Boulougnaise receipe -->
-
-
-<!DOCTYPE receipe[
-<!ENTITY heading "Recette de Spaghettis à la sauce Bolognaise">
-<!ENTITY heading_seconde"pour 6 personnes">
-
-
-
-<receipe>
-    <heading>   Recette de Spaghettis à la sauce Bolognaise   </heading>
-     <heading> pour 6 personnes</heading>
-    <ingredients>
-        <ing>ingredients:</ing> 
-        <Spaghettis>-900: gr Spaghettis</Spaghettis>
-        <tomates>-6:tomates</tomates>
-        <oignons>-3:oignons</oignons>
-        <boeuf_hach>-300 gr:boeuf hach</boeuf_hach>
-        <porc_hach>-900 gr:porc hach</porc_hach>
-        <preparation>Préparation : 20 minutes</preparation>
-        <cuisson>Cuisson : 2h</cuisson>
-        <dificulte>Difficulté : facile</dificulte>
-    </ingredients>
-
-    <paragraphe>
-        <pb></pb>
-        <p> -Emincez les oignons. Faites les revenir dans une poêle à</p>
-        <pa>l'huile d'olive. Ajoutez la viande mélangée. Laissez 5 min sur feu vif.</pa>
-        <pb></pb>
-        <p> -Ajoutez les tomates fraîches coupées ena cubes, avec une gousse<p>
-            <pa>d'ail hachée et du thym. Salez, poivrez. Laissez mijoter environ 2</pa>
-            <p></p>
-            <pa>heures sur feu doux</pa>
-            <pb></pb>
-        <p> -Faites cuire les 900 gr. de spaghettis dans un grand volume</p>
-            <pa>d'eau bouillante salée, avec une cuiller à soupe d'huile</pa>
-            <p></p>
-            <pa>d'olive. Surveillez la cuisson et arrêtez la quand les pâtes sont</pa>
-            <p></p>
-            <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
-            <pb></pb>
-        <p> -Faites cuire les 900 gr. de spaghettis dans un grand volume</p>
-            <pa>d'eau bouillante salée, avec une cuiller à soupe d'huile</pa>
-            <p></p>
-            <pa>d'olive. Surveillez la cuisson et arrêtez la quand les pâtes sont</pa>
-            <p></p>
-            <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
-    </paragraphe>
-</receipe>
-
-
+<?xml version="1.0"?> 
+<!ELEMENT receipe>
+<!ELEMENT heading>
+<!ELEMENT ingredinets (ing,Spaghettis,tomates,oignons,boeuf_hach,porc_hach,preparation,cuisson,dificulte)>
+<!ELEMENT paragraphe>

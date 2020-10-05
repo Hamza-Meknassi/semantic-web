@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8' ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE receipe SYSTEM "spaghettisBoloDtd.dtd">
 <?xml-stylesheet type="text/css" href="receipe.css"?> 
 <!--exercice 1 Boulougnaise receipe -->
 
 <receipe>
-    <heading>   Recette de Spaghettis à la sauce Bolognaise   </heading>
-     <heading> pour 6 personnes</heading>
+    <!-- <heading>   Recette de Spaghettis à la sauce Bolognaise   </heading>
+     <heading> pour 6 personnes</heading> -->
     <ingredients>
         <ing>ingredients:</ing> 
         <Spaghettis>-900: gr Spaghettis</Spaghettis>
@@ -18,12 +18,12 @@
         <dificulte>Difficulté : facile</dificulte>
     </ingredients>
 
-    <paragraphe>
+    <!--<paragraphe>
         <pb></pb>
         <p> -Emincez les oignons. Faites les revenir dans une poêle à</p>
         <pa>l'huile d'olive. Ajoutez la viande mélangée. Laissez 5 min sur feu vif.</pa>
         <pb></pb>
-        <p> -Ajoutez les tomates fraîches coupées ena cubes, avec une gousse<p>
+        <p> -Ajoutez les tomates fraîches coupées ena cubes, avec une gousse</p>
         <pa>d'ail hachée et du thym. Salez, poivrez. Laissez mijoter environ 2</pa>
         <p></p>
         <pa>heures sur feu doux</pa>
@@ -36,7 +36,7 @@
         <pa>cuites mais craquent légèrement sous la dent ("al dente").</pa>
         <pb></pb>
         <p></p>
-    </paragraphe>
+    </paragraphe>-->
 
 </receipe>
 

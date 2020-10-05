@@ -1,5 +1,11 @@
-<?xml version="1.0" ? >
-<!ELEMENT receipe (ANY) >
-<!ELEMENT heading  (ANY) >
-<!ELEMENT ingredinets (ing,Spaghettis,tomates,oignons,boeuf_hach,porc_hach,preparation,cuisson,dificulte) >
-<!ELEMENT paragraphe (ANY) >
+<!ELEMENT receipe (ingredients)>
+<!ELEMENT ingredinets (ing,Spaghettis,tomates,oignons,boeuf_hach,porc_hach,preparation,cuisson,dificulte)>
+<!ELEMENT ing (#PCDATA)>
+<!ELEMENT Spaghettis (#PCDATA)>
+<!ELEMENT tomates (#PCDATA)>
+<!ELEMENT oignons (#PCDATA)>
+<!ELEMENT boeuf_hach (#PCDATA)>
+<!ELEMENT porc_hach (#PCDATA)>
+<!ELEMENT preparation (#PCDATA)>
+<!ELEMENT cuisson (#PCDATA)>
+<!ELEMENT dificulte (#PCDATA)>
